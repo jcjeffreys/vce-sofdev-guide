@@ -9,6 +9,7 @@ The core of this subject is the SAT (School Assessed Task). This is your big pro
 
 ## What are the assessments?
 There will be at least one assessment in each term. See [assessments](assessments.md) for more details. A summary is provided below.
+
 | Task | Description | Date | % of study score |
 | --- | --- | --- | --- |
 | SAC 1 | Series of programming modules | Term 1 | 10% |
