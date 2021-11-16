@@ -9,12 +9,12 @@ The core of this subject is the SAT (School Assessed Task). This is your big pro
 
 ## What are the assessments?
 There will be at least one assessment in each term. See [assessments](assessments.md) for more details. A summary is provided below.
-|Task|Description|Date|% of study score|
-|---|---|---|---|
-|SAC 1|Series of programming modules|Term 1|10%|
-|SAT|Software Development project|Terms 2 and 3|30%|
-|SAC 2|Software development security case study|Term 4|10%|
-|Exam|End of year exam (all topics)|Term 4|50%|
+| Task | Description | Date | % of study score |
+| --- | --- | --- | --- |
+| SAC 1 | Series of programming modules | Term 1 | 10% |
+| SAT | Software Development project | Terms 2 and 3 | 30% |
+| SAC 2 | Software development security case study | Term 4 | 10% |
+| Exam | End of year exam (all topics) | Term 4 | 50% |
 
 ## What will we learn?
 Software Development is broken into 4 areas of study across two units. They are as follows:
