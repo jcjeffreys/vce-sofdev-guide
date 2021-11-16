@@ -1,8 +1,0 @@
-{
-    "source": "This is the source of the question (e.g. Exam, year...)",
-    "question": "The answer to this question is B. What is the correct answer? Justify your answer",
-    "marks": [
-        "B",
-        "The student should have said something along the lines of: 'The question told me'."
-    ]
-}

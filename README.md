@@ -1,4 +1,6 @@
 # vce-sofdev
 Resources for VCE Applied Computing: Software Development.
 
-blah
+## Quick links
+* [FAQ](faq.md)
+* [Assessments](assessments.md)
