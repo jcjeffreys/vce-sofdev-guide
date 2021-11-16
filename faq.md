@@ -19,27 +19,35 @@ There will be at least one assessment in each term. See [assessments](assessment
 
 ## What will we learn?
 Software Development is broken into 4 areas of study across two units. They are as follows:
+
 ### Unit 3 Area of Study 1: Programming
 > Students use a programming language and undertake the problem-solving activities of manipulation programming, validation, testing and documentation in the development stage.
+
 #### Programming topics
 * Coding environment and other tools
 * Python language
 * Writing programs to meet given requirements
 * Using important coding conventions and techniques
+
 ### Unit 3 Area of Study 2: Analysis and design
 > Students prepare a project plan that includes student-determined and teacher-provided milestones that take into account all stages of the problem-solving methodology covered in this outcome and in Unit 4, Area of Study 1.
+
 #### Analysis and design topics
 * Developing project plans
 * Collecting and analysing data
 * Designing a software solution
+
 ### Unit 4 Area of Study 1: Development and evaluation
 > In this area of study students develop the design they prepared in Unit 3, Area of Study 2, into a software solution that meets an identified need or opportunity by applying the problem-solving stages of development and evaluation.
+
 #### Development and evaluation topics
 * Developing a software solution
 * Evaluating a software solution
 * Evaluating plans and processes
+
 ### Unit 4 Area of Study 2: Software security
 > Students analyse and evaluate the security of current software development practices, examine the risks to software and data, and consider the consequences of implementing software with ineffective security strategies.
+
 #### Software security topics
 * Security risks
 * Securtiy controls
