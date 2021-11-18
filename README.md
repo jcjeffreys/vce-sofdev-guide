@@ -1,9 +1,28 @@
 # vce-sofdev
 Resources for VCE Applied Computing: Software Development.
 
-🥲
+_This guide is under construction, so please check back regularly for updates._ 🚧
 
 ## Quick links
-* [FAQ](faq.md)
+* [Key knowledge and key skills](descriptors.md)
 * [Assessment information](assessments.md)
-* [GitHub Classroom](https://classroom.github.com/classrooms/89886221-vce-sofdev-2022)
+* [Study design](https://www.vcaa.vic.edu.au/Documents/vce/computing/2020AppliedComputingSD.docx)
+* [GitHub](https://github.com/)
+* [Google Classroom]()
+
+## About
+
+Welcome to the SofDev Guide! 🎉
+
+This guide aims to help you find all of the information you need to be successful in VCE Applied Computing: Software Development. If you have any questions about the subject, please consult this guide before checking in with your teacher.
+
+## First time?
+
+If this is your first time visiting, there are a few things you need to do to be set up for studying Software Development.
+
+1. Get an idea of the subject by reading the [FAQ](faq.md).
+1. Join the [Google Classroom]().
+1. Create a [GitHub](https://github.com/) account using your school email.
+1. Install and set up your [IDE](ide-setup.md).
+1. Say ["Hello World!"](). 👋
+
