@@ -1,7 +1,7 @@
 # FAQ
 Detailed information about this subject is available in the [study design](https://www.vcaa.vic.edu.au/Documents/vce/computing/2020AppliedComputingSD.docx).
 
-## Why software development?
+## What is software development?
 This subject is more than just computer programming. To be a successful software developer or engineer, you need a wide range of skills that will allow you to use powerful tools, manage large projects, and combat cybersecurity threats (among other things). These skills will also help you in many other areas as fast-evolving technology transforms more and more aspects of our professional and day-to-day lives.
 
 ## What is the course structure?
