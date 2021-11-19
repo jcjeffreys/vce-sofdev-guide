@@ -1,5 +1,5 @@
-# vce-sofdev
-Resources for VCE Applied Computing: Software Development.
+# vce-sofdev-guide
+Guide for VCE Applied Computing: Software Development.
 
 _This guide is under construction, so please check back regularly for updates._ 🚧
 
@@ -21,8 +21,8 @@ This guide aims to help you find all of the information you need to be successfu
 If this is your first time visiting, there are a few things you need to do to be set up for studying Software Development.
 
 1. Get an idea of the subject by reading the [FAQ](faq.md).
-1. Join the [Google Classroom]().
+1. Join the Software Development [Google Classroom]().
 1. Create a [GitHub](https://github.com/) account using your school email.
 1. Install and set up your [IDE](ide-setup.md).
-1. Say ["Hello World!"](). 👋
+1. Say ["Hello World!"](helloworld.md). 👋
 
