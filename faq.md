@@ -50,7 +50,7 @@ Software Development is broken into 4 areas of study across two units. They are 
 
 #### Software security topics
 * Security risks
-* Securtiy controls
+* Security controls
 * Evaluating security practices
 * Consequences of cybersecurity breaches
 
