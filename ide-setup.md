@@ -28,7 +28,7 @@ Download and install the following software (default settings is ok):
 ### Perform setup for Git
 
 1. Start VSCode (ignore the start screen for now)
-1. Open a terminal using <kbd>Ctrl</kbd><kbd>`</kbd> (Windows/Linux) or <kbd>⌘</kbd><kbd>`</kbd> (macOS)
+1. Open a terminal using <kbd>Ctrl</kbd><kbd>\`</kbd> (Windows/Linux) or <kbd>⌘</kbd><kbd>\`</kbd> (macOS)
 1. If you are connected to the school network, type the following command (and press <kbd>⏎</kbd>):
 
     `git config --global http.proxy http://10.179.176.19:8080`
