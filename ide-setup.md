@@ -1,7 +1,7 @@
 # Setting up your IDE
 
-* [What is an IDE?](#what-is-an-ide)
-* [Steps](#steps)
+1. [What is an IDE?](#what-is-an-ide)
+2. [Steps](#steps)
 
 ## What is an IDE?
 
