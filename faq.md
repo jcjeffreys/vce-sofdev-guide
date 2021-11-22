@@ -1,13 +1,39 @@
 # FAQ
-Detailed information about this subject is available in the [study design](https://www.vcaa.vic.edu.au/Documents/vce/computing/2020AppliedComputingSD.docx).
+
+Common questions when starting the Software Development VCE course. Detailed information about this subject is available in the [study design](https://www.vcaa.vic.edu.au/Documents/vce/computing/2020AppliedComputingSD.docx).
+
+Contents:
+
+1. [What is software development?](#what-is-software-development)
+1. [What materials do I need?](#what-materials-do-i-need)
+1. [What is the course structure?](#what-is-the-course-structure)
+1. [What are the assessments?](#what-are-the-assessments)
+1. [What will we learn?](#what-will-we-learn)
 
 ## What is software development?
+
 This subject is more than just computer programming. To be a successful software developer or engineer, you need a wide range of skills that will allow you to use powerful tools, manage large projects, and combat cybersecurity threats (among other things). These skills will also help you in many other areas as fast-evolving technology transforms more and more aspects of our professional and day-to-day lives.
 
+## What materials do I need?
+
+You will need:
+
+* The textbook: _Software Development VCE Units 3 & 4_ by Nelson
+* An exercise book
+* A pen
+
+Optional but recommended:
+
+* Your own computer (including charger) running Windows, Linux, or macOS
+* Other stationary (highlighters, ruler, etc.)
+* Headphones (**not** Airpods)
+
 ## What is the course structure?
+
 The core of this subject is the SAT (School Assessed Task). This is your big project that you spend two whole terms planning, designing, developing, and evaluating. Before beginning the project, we will prepare by learning and practicing programming in Python. During this time, you will need to come up with a suitable idea for a project. Your teacher will help you with this.
 
 ## What are the assessments?
+
 There will be at least one assessment in each term. See [assessments](assessments.md) for more details. A summary is provided below.
 
 | Task | Description | Date | % of study score |
@@ -18,39 +44,47 @@ There will be at least one assessment in each term. See [assessments](assessment
 | Exam | End of year exam (all topics) | Term 4 | 50% |
 
 ## What will we learn?
+
 Software Development is broken into 4 areas of study across two units. They are as follows:
 
 ### Unit 3 Area of Study 1: Programming
+
 > Students use a programming language and undertake the problem-solving activities of manipulation programming, validation, testing and documentation in the development stage.
 
 #### Programming topics
+
 * Coding environment and other tools
 * Python language
 * Writing programs to meet given requirements
 * Using important coding conventions and techniques
 
 ### Unit 3 Area of Study 2: Analysis and design
+
 > Students prepare a project plan that includes student-determined and teacher-provided milestones that take into account all stages of the problem-solving methodology covered in this outcome and in Unit 4, Area of Study 1.
 
 #### Analysis and design topics
+
 * Developing project plans
 * Collecting and analysing data
 * Designing a software solution
 
 ### Unit 4 Area of Study 1: Development and evaluation
+
 > In this area of study students develop the design they prepared in Unit 3, Area of Study 2, into a software solution that meets an identified need or opportunity by applying the problem-solving stages of development and evaluation.
 
 #### Development and evaluation topics
+
 * Developing a software solution
 * Evaluating a software solution
 * Evaluating plans and processes
 
 ### Unit 4 Area of Study 2: Software security
+
 > Students analyse and evaluate the security of current software development practices, examine the risks to software and data, and consider the consequences of implementing software with ineffective security strategies.
 
 #### Software security topics
+
 * Security risks
 * Security controls
 * Evaluating security practices
 * Consequences of cybersecurity breaches
-

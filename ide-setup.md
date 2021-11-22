@@ -23,10 +23,10 @@ Programmers should choose and customise an IDE to meet their specific needs. Thi
 
 ### Install required software
 
-Download and install the following software (default settings is ok):
+Download and install the following software:
 
 1. [Git](https://git-scm.com/)
-1. [Python](https://www.python.org/downloads/)
+1. [Python](https://www.python.org/downloads/) (❗️☑️ 'add Python to PATH')
 1. [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Perform setup for Git
