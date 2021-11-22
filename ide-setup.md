@@ -1,5 +1,9 @@
 # Setting up your IDE
 
+In order to develop software in VCE Software Development, you will need to set up the required tools: Git, Python, and Visual Studio Code.
+
+Contents:
+
 1. [What is an IDE?](#what-is-an-ide)
 2. [Steps](#steps)
 
@@ -27,7 +31,7 @@ Download and install the following software (default settings is ok):
 
 ### Perform setup for Git
 
-1. Start VSCode (ignore the start screen for now)
+1. Start VSCode (ignore the 'start' screen for now)
 1. Open a terminal using <kbd>Ctrl</kbd><kbd>\`</kbd> (Windows/Linux) or <kbd>⌘</kbd><kbd>\`</kbd> (macOS)
 1. If you are connected to the school network, type the following command (and press <kbd>⏎</kbd>):
 
@@ -45,11 +49,11 @@ Download and install the following software (default settings is ok):
 
 ### Configure VSCode to support Python
 
+1. Open the extensions sidebar in VSCode with <kbd>⇧</kbd><kbd>Ctrl</kbd><kbd>X</kbd> (Windows/Linux) or <kbd>⇧</kbd><kbd>⌘</kbd><kbd>X</kbd> (macOS)
+1. Search for 'Python' and install the extension by Microsoft
 1. Open the command palette with <kbd>⇧</kbd><kbd>Ctrl</kbd><kbd>P</kbd> (Windows/Linux) or <kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd> (macOS)
 1. Search for 'Python', and select 'Python: Select Interpreter'
 1. Select the latest version of Python available
-1. Open the extensions sidebar in VSCode with <kbd>⇧</kbd><kbd>Ctrl</kbd><kbd>X</kbd> (Windows/Linux) or <kbd>⇧</kbd><kbd>⌘</kbd><kbd>X</kbd> (macOS)
-1. Search for 'Python' and install the extension by Microsoft
 
 ### Congratulations! 🎉
 
