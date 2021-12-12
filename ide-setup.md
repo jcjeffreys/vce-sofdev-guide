@@ -33,19 +33,12 @@ Download and install the following software:
 
 1. Start VSCode (ignore the 'start' screen for now)
 1. Open a terminal using <kbd>Ctrl</kbd><kbd>\`</kbd> (Windows/Linux) or <kbd>⌘</kbd><kbd>\`</kbd> (macOS)
-1. If you are connected to the school network, type the following command (and press <kbd>⏎</kbd>):
-
-    `git config --global http.proxy http://10.179.176.19:8080`
-
-    _If you connect to a non-school network later, you will need to run the following command:_
-
-    `git config --global --unset http.proxy`
-
-1. Perform your user setup for `git` with the following commands (using your own name and school email)
+1. If you are connected to a school network, you may need to run some commands to allow `git` and other command-line utilities to connect to the internet (check with your teacher)
+1. Perform your user setup for `git` by running the following commands in the terminal, and pressing (using your own name and email you signed up for GitHub with)
 
     `git config --global user.name "Firstname Lastname"`
 
-    `git config --global user.email las0001@millparksc.vic.edu.au`
+    `git config --global user.email name@domain.com`
 
 ### Configure VSCode to support Python
 

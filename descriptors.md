@@ -1,5 +1,12 @@
 # Key knowledge and key skills
 
+Contents:
+
+1. [Unit 3 Outcome 1: programming](#unit-3-outcome-1-programming)
+1. [Unit 3 Outcome 2: analysis and design](#unit-3-outcome-2-analysis-and-design)
+1. [Unit 4 Outcome 1: development and evaluation](#unit-4-outcome-1-development-and-evaluation)
+1. [Unit 4 Outcome 2: software security](#unit-4-outcome-2-software-security)
+
 ## Unit 3 Outcome 1: programming
 
 ### Key knowledge
@@ -7,7 +14,7 @@
 #### Data and information
 
 1. [characteristics of data types](descriptors/kk311.md)
-2. types of data structures, including associative arrays (or dictionaries or hash tables), one-dimensional arrays (single data type, integer index) and records (varying data types, field index)
+2. [types of data structures, including associative arrays (or dictionaries or hash tables), one-dimensional arrays (single data type, integer index) and records (varying data types, field index)](descriptors/kk312.ipynb)
 
 #### Approaches to problem solving
 

@@ -16,4 +16,4 @@ _Note: you will be prompted to do a few things the first time you open an assign
 
 ❗️ _After you complete the above steps, you may need to click the assignment link again._
 
-[Accept your first assignment](https://classroom.github.com/a/87hG6vXR) to start the SofDev course. 🔰
+_Your teacher will provide you with a link to your first assignment._ 🔰
