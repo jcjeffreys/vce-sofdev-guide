@@ -14,7 +14,7 @@ Contents:
 #### Data and information
 
 1. [characteristics of data types](descriptors/kk311.md)
-2. [types of data structures, including associative arrays (or dictionaries or hash tables), one-dimensional arrays (single data type, integer index) and records (varying data types, field index)](descriptors/kk312.ipynb)
+2. [types of data structures, including associative arrays (or dictionaries or hash tables), one-dimensional arrays (single data type, integer index) and records (varying data types, field index)](descriptors/kk312.md)
 
 #### Approaches to problem solving
 
