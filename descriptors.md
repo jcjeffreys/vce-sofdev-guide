@@ -28,7 +28,7 @@ Contents:
 10. algorithms for sorting, including selection sort and quick sort
 11. algorithms for binary and linear searching
 12. validation techniques, including existence checking, range checking and type checking
-13. techniques for checking that modules meet design specifications, including trace tables and construction of test data 
+13. [techniques for checking that modules meet design specifications, including trace tables and construction of test data](descriptors/kk3113.md) 
 14. [purposes and characteristics of internal documentation, including meaningful comments and syntax.](descriptors/kk3114.md)
 
 ### Key skills
