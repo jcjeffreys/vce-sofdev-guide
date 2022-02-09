@@ -27,7 +27,7 @@ Contents:
 9. [processing features of a programming language, including classes, control structures, functions, instructions and methods](descriptors/kk319.md) 
 10. algorithms for sorting, including selection sort and quick sort
 11. algorithms for binary and linear searching
-12. validation techniques, including existence checking, range checking and type checking
+12. [validation techniques, including existence checking, range checking and type checking](descriptors/kk3112.md)
 13. [techniques for checking that modules meet design specifications, including trace tables and construction of test data](descriptors/kk3113.md) 
 14. [purposes and characteristics of internal documentation, including meaningful comments and syntax.](descriptors/kk3114.md)
 
