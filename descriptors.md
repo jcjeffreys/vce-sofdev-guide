@@ -21,7 +21,7 @@ Contents:
 3. methods for documenting a problem, need or opportunity
 4. methods for determining solution requirements, constraints and scope
 5. [methods of representing designs, including data dictionaries, mock-ups, object descriptions and pseudocode](descriptors/kk315.md)
-6. formatting and structural characteristics of files, including delimited (CSV), plain text (TXT) and XML file formats
+6. [formatting and structural characteristics of files, including delimited (CSV), plain text (TXT) and XML file formats](descriptors/kk316.md)
 7. a programming language as a method for developing working modules that meet specified needs
 8. [naming conventions for solution elements](descriptors/kk318.md)
 9. [processing features of a programming language, including classes, control structures, functions, instructions and methods](descriptors/kk319.md) 
