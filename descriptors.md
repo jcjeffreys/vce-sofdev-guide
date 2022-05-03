@@ -63,8 +63,10 @@ Data and information
 12. factors influencing the design of solutions, including affordance, interoperability, marketability, security and usability
 13. characteristics of user experiences, including efficient and effective user interfaces
 14. development model approaches, including agile, spiral and waterfall
-15. features of project management using Gantt charts, including the identification and sequencing of tasks, time allocation, dependencies, milestones and critical path
-Interactions and impact
+15. [features of project management using Gantt charts, including the identification and sequencing of tasks, time allocation, dependencies, milestones and critical path](descriptors/kk3215.md)
+
+#### Interactions and impact
+
 16. goals and objectives of organisations and information systems
 17. key legal requirements relating to the ownership and privacy of data and information.
 
