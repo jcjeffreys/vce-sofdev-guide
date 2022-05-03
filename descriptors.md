@@ -41,7 +41,44 @@ Contents:
 
 ## Unit 3 Outcome 2: analysis and design
 
-🚧
+### Key knowledge
+
+#### Digital systems
+
+1. security considerations influencing the design of solutions, including authentication and data protection
+Data and information
+2. techniques for collecting data to determine needs and requirements, including interviews, observation, reports and surveys
+ 
+#### Approaches to problem solving
+
+3. functional and non-functional requirements
+4. constraints that influence solutions, including economic, legal, social, technical and usability
+5. factors that determine the scope of solutions
+6. features and purposes of software requirement specifications
+7. tools and techniques for depicting the interfaces between solutions, users and networks, including use case diagrams created using UML
+8. features of context diagrams and data flow diagrams
+9. techniques for generating design ideas
+10. criteria for evaluating the alternative design ideas and the efficiency and effectiveness of solutions
+11. methods of expressing solution designs using data dictionaries, mock-ups, object descriptions and pseudocode
+12. factors influencing the design of solutions, including affordance, interoperability, marketability, security and usability
+13. characteristics of user experiences, including efficient and effective user interfaces
+14. development model approaches, including agile, spiral and waterfall
+15. features of project management using Gantt charts, including the identification and sequencing of tasks, time allocation, dependencies, milestones and critical path
+Interactions and impact
+16. goals and objectives of organisations and information systems
+17. key legal requirements relating to the ownership and privacy of data and information.
+
+### Key skills
+
+1. select a range of methods to collect and interpret data for analysis
+2. select and justify the use of an appropriate development model
+3. apply analysis tools and techniques to determine solution requirements, constraints and scope
+4. document an analysis as a software requirements specification
+5. generate alternative design ideas
+6. develop evaluation criteria to select and justify preferred designs 
+7. produce detailed designs using appropriate design methods and techniques
+8. create, monitor and modify project plans using software.
+
 
 ## Unit 4 Outcome 1: development and evaluation
 
