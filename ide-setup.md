@@ -50,4 +50,4 @@ Download and install the following software:
 
 ### Congratulations! 🎉
 
-You are now ready to start your [first assignment](helloworld.md)!
+You are now ready to start writing software!
