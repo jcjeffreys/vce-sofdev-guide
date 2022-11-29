@@ -26,5 +26,5 @@ If this is your first time visiting, there are a few things you need to do to be
 1. Join the Software Development class on [Google Classroom](https://classroom.google.com/).
 1. Create a [GitHub](https://github.com/) account using your school email.
 1. Install and [set up your IDE](ide-setup.md).
-1. Say ["Hello World!"](helloworld.md). 👋
+1. Say "Hello World!". 👋
 
